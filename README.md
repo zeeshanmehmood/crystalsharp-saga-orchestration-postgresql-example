@@ -1,5 +1,5 @@
 # Crystal Sharp - Saga Orchestration PostgreSQL Example
-Crystal Sharp framework - Saga Orchestration code example with `PostgreSQL`.
+Crystal Sharp framework - `Saga Orchestration` code example with `PostgreSQL`.
 
 
 ### About This Example
